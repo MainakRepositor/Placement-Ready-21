@@ -6,7 +6,7 @@ A detailed collection of various programming algorithms in C, C++  and Python La
 <hr>
 
 <ol>
-  <li><a href="">Brute Force Algorithms (Searing and Sorting)</a></li>
+  <li><a href="">Brute Force Algorithms (Searching and Sorting)</a></li>
   <li><a href="">Greedy Algorithms</a></li>
   <li><a href="">Dynamic Programming Algorithms</a></li>
   <li><a href="">Divide and Conquer Algorithms</a></li>
