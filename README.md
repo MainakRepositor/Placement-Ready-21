@@ -17,3 +17,19 @@ A detailed collection of various programming algorithms in C, C++  and Python La
   <li><a href="">Mathematical Algorithms</a></li>
   <li><a href="">Graph Algorihtms</a></li>
   </ol>
+
+## DATA STRUCTURES 
+<ol>
+  <li><a href="">Arrays</a></li>
+  <li><a href="">Linked Lists</a></li>
+  <li><a href="">Stacks</a></li>
+  <li><a href="">Queues</a></li>
+  <li><a href=""></a></li>
+  <ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ol>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  </ol>
