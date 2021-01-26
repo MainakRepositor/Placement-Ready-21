@@ -17,6 +17,8 @@ A detailed collection of various programming algorithms in C, C++  and Python La
   <li><a href="">Mathematical Algorithms</a></li>
   <li><a href="">Graph Algorihtms</a></li>
   </ol>
+  
+  <hr>
 
 ## DATA STRUCTURES 
 <ol>
@@ -24,12 +26,15 @@ A detailed collection of various programming algorithms in C, C++  and Python La
   <li><a href="">Linked Lists</a></li>
   <li><a href="">Stacks</a></li>
   <li><a href="">Queues</a></li>
-  <li><a href=""></a></li>
+  <li><a href=""></a>Trees</li>
   <ol>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li><a href="">Binary Search Tree</a></li>
+    <li><a href="">AVL Tree</a></li>
+    <li><a href="">Red Black Tree</a></li>
     </ol>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="">Graphs</a></li>
+  <li><a href="">Hash Tables</a></li>
+  <li><a href="">Maps</a></li>
   </ol>
+  
+  <hr>
