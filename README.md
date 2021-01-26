@@ -4,3 +4,16 @@ A detailed collection of various programming algorithms in C, C++  and Python La
 ## TOPICS ON ALGORITHMS
 
 <hr>
+
+<ol>
+  <li><a href="">Brute Force Algorithms (Searing and Sorting)</a></li>
+  <li><a href="">Greedy Algorithms</a></li>
+  <li><a href="">Dynamic Programming Algorithms</a></li>
+  <li><a href="">Divide and Conquer Algorithms</a></li>
+  <li><a href="">Back-tracking Algorithms</a></li>
+  <li><a href="">Randomization Algorithms</a></li>
+  <li><a href="">Branch and Bound Algorithms</a></li>
+  <li><a href="">Geometric Algorithms</a></li>
+  <li><a href="">Mathematical Algorithms</a></li>
+  <li><a href="">Graph Algorihtms</a></li>
+  </ol>
