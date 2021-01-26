@@ -1,7 +1,7 @@
 # Design-and-Analysis-of-Algorithms
 A detailed collection of various programming algorithms in C, C++  and Python Languages. Use this repository to get a detailed knowledge of placement-necessary programming from Data Structures and Algorithms.
 
-## TOPICS ON ALGORITHMS
+## TOPICS ON ALGORITHMS ⭐
 
 <hr>
 
@@ -20,7 +20,7 @@ A detailed collection of various programming algorithms in C, C++  and Python La
   
   <hr>
 
-## DATA STRUCTURES 
+## DATA STRUCTURES ⭐
 <ol>
   <li><a href="">Arrays</a></li>
   <li><a href="">Linked Lists</a></li>
