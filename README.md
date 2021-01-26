@@ -1,7 +1,7 @@
 # Design-and-Analysis-of-Algorithms
 A detailed collection of various programming algorithms in C, C++  and Python Languages. Use this repository to get a detailed knowledge of placement-necessary programming from Data Structures and Algorithms.
 
-## TOPICS ON ALGORITHMS ⭐
+## 🎯 TOPICS ON ALGORITHMS ⭐
 
 <hr>
 
@@ -20,7 +20,7 @@ A detailed collection of various programming algorithms in C, C++  and Python La
   
   <hr>
 
-## DATA STRUCTURES ⭐
+## 🎯 DATA STRUCTURES ⭐
 <ol>
   <li><a href="">Arrays</a></li>
   <li><a href="">Linked Lists</a></li>
@@ -35,6 +35,42 @@ A detailed collection of various programming algorithms in C, C++  and Python La
   <li><a href="">Graphs</a></li>
   <li><a href="">Hash Tables</a></li>
   <li><a href="">Maps</a></li>
+  </ol>
+  
+  <hr>
+  
+ ## 🎯 DATABASE MANAGEMENT SYSTEM (DBMS) ⭐
+<ol>
+  <li><a href="">Introduction and Definitions</a></li>
+  <li><a href="">Entity Relationship Model (ER Model)</a></li>
+  <li><a href="">Relational Model</a></li>
+  <li><a href="">Relational Algebra</a></li>
+  <li><a href="">Structured Query Language (SQL)</a></li>
+  <li><a href="">Normalisation</a></li>
+  <li><a href="">Functional Dependencies</a></li>
+  <li><a href="">Transaction and Concurrency Control</a></li>
+  <li><a href="">Indexing, B and B+ Tree Concepts</a></li>
+  <li><a href="">File Organization</a></li>
+  <li><a href="">Advanced Concepts of DBMS</a></li>
+ 
+  </ol>
+  
+  <hr>
+  
+   ## 🎯 OPERATING SYSTEMS ⭐
+<ol>
+  <li><a href="">Introduction and Definitions</a></li>
+  <li><a href="">CPU Scheduling</a></li>
+  <li><a href="">Deadlock Detection</a></li>
+  <li><a href="">Deadlock Avoidance</a></li>
+  <li><a href="">File Allocation</a></li>
+  <li><a href="">File Organization</a></li>
+  <li><a href="">Memory Partitioning</a></li>
+  <li><a href="">IPC</a></li>
+  <li><a href="">Page Replacement</a></li>
+  <li><a href="">Paging Techniques</a></li>
+  <li><a href="">Synchronization</a></li>
+ 
   </ol>
   
   <hr>
