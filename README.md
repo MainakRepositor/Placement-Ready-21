@@ -26,7 +26,7 @@ A detailed collection of various programming algorithms in C, C++  and Python La
   <li><a href="">Linked Lists</a></li>
   <li><a href="">Stacks</a></li>
   <li><a href="">Queues</a></li>
-  <li><a href=""></a>Trees</li>
+  <li><a href="">Trees</a></li>
   <ol>
     <li><a href="">Binary Search Tree</a></li>
     <li><a href="">AVL Tree</a></li>
